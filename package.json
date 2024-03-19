@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server/server.js"
   },
   "repository": {
     "type": "git",
